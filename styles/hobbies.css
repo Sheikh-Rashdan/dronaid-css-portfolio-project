@@ -30,6 +30,7 @@
     border: 2px solid rgb(212, 212, 212);
     transition: all 300ms ease;
     position: relative;
+    overflow: hidden;
 }
 
 .hobby-card:hover {
